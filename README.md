@@ -1,2 +1,1 @@
-# prepcourse-henry
-este es un repositoria de prueba del modelo 2
+esto es una prueba de como funciona es readme
